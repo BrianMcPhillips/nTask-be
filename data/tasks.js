@@ -5,7 +5,7 @@ module.exports = [
   },
   {
     todo: 'Do Dishes',
-    completed: true,
+    completed: false,
   },
   {
     todo: 'Clean Room',
